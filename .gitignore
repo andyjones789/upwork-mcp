@@ -35,3 +35,6 @@ Thumbs.db
 
 # Local config (users should create their own)
 mcp-config.json
+
+# Recon HTML dumps
+scripts/recon-output/
